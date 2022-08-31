@@ -3,7 +3,7 @@ function Header() {
   return (
     <>
     <div className='header-main'>
-      <img src='forging-img'></img>
+      <img src='forging-img' alt='CNC description'></img>
       <div  >
     <header >
       

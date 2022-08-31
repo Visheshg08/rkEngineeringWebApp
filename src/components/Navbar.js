@@ -11,20 +11,9 @@ function Navbar() {
           
           <ul className="bar">
           <li>
-              <Link>About</Link>
+              
             </li>
-            <li>
-              <Link>R.K Engineering</Link>
-            </li>
-            <li>
-              <Link>Our Products</Link>
-            </li>
-            <li>
-              <Link>Our Clients</Link>
-            </li>
-            <li>
-              <Link>Contact</Link>
-            </li>
+            
             
             
           </ul>

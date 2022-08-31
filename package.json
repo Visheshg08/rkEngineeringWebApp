@@ -1,6 +1,6 @@
 {
-  "homepage": "https://eternalcloudservices.com",
-  "name": "eternalwebapp",
+ 
+  "name": "rkengineeringwebapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

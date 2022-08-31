@@ -1,7 +1,6 @@
 import About from '../components/About';
-
-import Contact from '../components/Contact';
 import React from 'react';
+import Contact from '../components/Contact';
 
 function Main() {
   return (
@@ -9,7 +8,8 @@ function Main() {
       <main>
         
         <About />
-        {/* <Contact /> */}
+        <Contact />
+        
       </main>
     </>
   );
